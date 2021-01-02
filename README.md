@@ -1,5 +1,6 @@
 # PDF-Cracker
-Simple but effective script to unlock PDF files by cracking them using a Brute-Force attack.
+### Simple but effective script to unlock PDF files by cracking them using a Brute-Force attack.
+
 <img src="pdfcracker.jpg">
 
 
