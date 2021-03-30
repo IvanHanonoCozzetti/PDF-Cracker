@@ -3,7 +3,7 @@
 
 In order to unlock a file change the `yourpasswordlist.txt` to the name of your password list and `locked.pdf` to the name of the PDF file that you are trying to crack.
 
-<img src="pdfcracker.jpg">
+<img src="pdf-cracker.jpg">
 
 
 #### Disclaimer:
